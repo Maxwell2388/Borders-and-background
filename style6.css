@@ -1,0 +1,11 @@
+#head1 {
+    background-image: url(Aima.JPG);
+}
+
+body {
+    background-image: url(Ann.jpg);
+    background-repeat: repeat-y;
+    background-size: 300px;
+    background-attachment: fixed;
+    background-position: center;
+}

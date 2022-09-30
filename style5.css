@@ -1,0 +1,13 @@
+#head1{
+    color: rgb(124, 220, 220);
+}
+
+#head2 {
+    color: #7cdcdc
+}
+
+ /* 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F */
+
+ /* 7 * 16 = 112 remainder 12, i.e 7C...  */
+ 
+ /* 220/13= 13 remainder 12 i.e (13 * 16 = 208) =(220-208= 12) so therefore 13 remainder 12 = DC */
